@@ -4,7 +4,7 @@ import './App.css';
 const messages = [
   'Learn React ⚛️',
   'on OctaCoder YouTube',
-  'Apply for Jobs 💼'
+  'Please Subscribe'
 ];
 
 function App() {
